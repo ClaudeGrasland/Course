@@ -1,0 +1,52 @@
+--- 
+title: "Cours vide"
+author: "Claude Grasland"
+date: "`r Sys.Date()`"
+documentclass: book
+link-citations: yes
+description: Titre du cours
+site: bookdown::bookdown_site
+always_allow_html: yes
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+library(knitr)
+library(tidyverse)
+
+knitr::opts_chunk$set(cache = TRUE,
+                      echo = TRUE,
+                      comment = "")
+
+```
+
+
+
+## À propos de ce document {-}
+
+Ce document est ...
+
+Il est basé sur `r R.Version()[["version.string"]]`.
+
+Ce document est régulièrement corrigé et mis à jour. La version de référence est disponible en ligne à l'adresse :
+
+- [https://ClaudeGrasland.github.io/xxx](https://ClaudeGrasland.github.io/xxx)
+
+Le code source est disponible [sur GitHub](https://github.com/ClaudeGrasland/xxx).
+
+Pour toute suggestion ou correction, il est possible de me contacter [par mail](mailto:claude.grasland@parisgeo.cnrs.fr)
+
+
+## Remerciements {-}
+
+Ce document a bénéficié de la relecture et des suggestions de ....
+
+Ce document est généré par l'excellente extension [bookdown](https://bookdown.org/) de [Yihui Xie](https://yihui.name/) et il s'est servi du template proposé par Julien Barnier pour introduire des exercices interactifs dans son cours de tidyverse.
+
+## Licence {-}
+
+Ce document est mis à disposition selon les termes de la [Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Licence Creative Commons](resources/icons/license_cc.png)
+
+
+

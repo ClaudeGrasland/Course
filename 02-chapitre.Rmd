@@ -1,0 +1,56 @@
+# (PART) Partie1 {-}
+
+# Titre de chapitre
+
+Une fois R et RStudio installés sur votre machine, nous n'allons pas lancer R mais plutôt RStudio.
+
+RStudio n'est pas à proprement parler une interface graphique qui permettrait d'utiliser R de manière "classique" via la souris, des menus et des boîtes de dialogue. Il s'agit plutôt de ce qu'on appelle un *Environnement de développement intégré* (IDE) qui facilite l'utilisation de R et le développement de scripts (voir section \@ref(rstudio)).
+
+## partie 1
+
+### paragraphe11
+
+### paragraphe12
+
+## partie 2
+
+### paragraphe11
+
+### paragraphe12
+
+
+
+
+## Exercices
+
+**Exercice 1**
+
+Construire le vecteur `x` suivant :
+
+```{r echo=FALSE}
+x <- c(120, 134, 256, 12)
+x
+```
+
+\iffalse
+<div class="solution-exo">
+```{r eval=FALSE}
+x <- c(120, 134, 256, 12)
+```
+</div>
+\fi
+
+**Exercice 2**
+
+```{r echo=FALSE}
+x <- c(120, 134, 256, 12)
+x
+```
+
+\iffalse
+<div class="solution-exo">
+```{r eval=FALSE}
+x <- c(120, 134, 256, 12)
+```
+</div>
+\fi
