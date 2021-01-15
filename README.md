@@ -1,4 +1,4 @@
-# Introduction à R et au tidyverse
+# Squelette de cours
 
 Code source du document *xxx*, accessible en ligne à l'adresse suivante :
 
