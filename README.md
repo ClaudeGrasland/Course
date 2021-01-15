@@ -1,0 +1,2 @@
+# Course
+Template for course
